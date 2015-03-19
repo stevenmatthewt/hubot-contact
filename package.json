@@ -1,0 +1,14 @@
+{
+  "name": "hubot-contacts",
+  "version": "0.0.1",
+  "description": "Keep track of contact information for hipchat users",
+  "main": "index.js",
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Steven Thomas <steven.thomas@careerbuilder.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmatthewt/hubot-contacts"
+  }
+}
